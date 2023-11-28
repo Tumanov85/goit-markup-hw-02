@@ -89,10 +89,8 @@ h2 {
   color: #ffffff;
   cursor: pointer;
   letter-spacing: 0.04em;
-  border-radius: 4px;
   font-weight: 500;
   background: #4d5ae5;
-  box-shadow: rgba 0, 0, 0, 0.15;
 }
 .button:hover,
 .button:focus {
@@ -124,6 +122,9 @@ h2 {
   letter-spacing: 0.02em;
 }
 .team {
+  background-color: #ffffff;
+}
+.team-card {
   background-color: #ffffff;
 }
 .portfolio-title {
