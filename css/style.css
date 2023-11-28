@@ -24,20 +24,6 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
-.link-studio {
-  color: #2e2f42;
-  font-weight: 500;
-  text-decoration: none;
-  letter-spacing: 0.02em;
-}
-.link-studio:hover,
-.link-studio:focus {
-  color: #404bbf;
-}
-.link-studio:active {
-  color: #404bbf;
-  text-decoration: underline;
-}
 .link {
   color: #2e2f42;
   font-size: 16px;
