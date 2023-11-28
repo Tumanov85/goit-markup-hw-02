@@ -28,6 +28,7 @@ body {
   color: #2e2f42;
   font-weight: 500;
   text-decoration: none;
+  letter-spacing: 0.02em;
 }
 .link-studio:hover,
 .link-studio:focus {
@@ -43,6 +44,7 @@ body {
   font-weight: 500;
   line-height: 1.5;
   text-decoration: none;
+  letter-spacing: 0.02em;
 }
 .link:hover,
 .link:focus {
